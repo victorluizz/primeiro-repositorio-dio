@@ -34,7 +34,8 @@
     1. No terminal: git status
     2. No terminal: git add * ou git add -A ou git add .
     3. No terminal: git status
-    4. No terminal: git push origin main
+    4. No terminal: git commit -m "Incluindo alterações”
+    5. No terminal: git push origin main
 
 ## git remote -v
 
