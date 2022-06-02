@@ -28,6 +28,14 @@
     2. Ir na pasta no computador e dar um “Git Bash Here’
     3. No terminal: git clone git clone [git@github.com](mailto:git@github.com):victorluizz/primeiro-repositorio-dio.git
 
+## Atualizando um repositório que teve arquivos novos criados no computador
+
+- **Passo a passo**
+    1. No terminal: git status
+    2. No terminal: git add * ou git add -A ou git add .
+    3. No terminal: git status
+    4. No terminal: git push origin main
+
 ## git remote -v
 
 - Lista todos os repositórios remotos que você tem.
